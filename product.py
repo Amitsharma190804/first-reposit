@@ -7,4 +7,4 @@ b3 = float(input("enter the value of b3 : "))
 
 dp = (a1*b1 + a2*b2 + a3*b3)
 print ("dot product of two vector is : ",dp)
-print("thank you")
+print("hello amit")
