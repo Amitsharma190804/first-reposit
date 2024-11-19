@@ -18,6 +18,6 @@ the image is ![dot product](https://d138zd1ktt9iqe.cloudfront.net/media/seo_land
 - distributive
 - bilinear
 
-[!NOTE]
+>[!NOTE]
 > if dot product of two vector is 0 then they are perpendicular to each other.
 [^1]: Basic properties of dot product of vector.
