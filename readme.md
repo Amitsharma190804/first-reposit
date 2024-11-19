@@ -21,3 +21,46 @@ the image is ![dot product](https://d138zd1ktt9iqe.cloudfront.net/media/seo_land
 >[!NOTE]
 > if dot product of two vector is 0 then they are perpendicular to each other.
 [^1]: Basic properties of dot product of vector.
+
+| Column 1 | Column 2 | Column 3 |
+|----------|----------|----------|
+| Row 1    | Data     | Example  |
+| Row 2    | More     | Content  |
+
+
+Inline math: $E = mc^2$
+
+Block math:
+$$
+E = mc^2
+$$
+
+```python
+def hello_world():
+    print("Hello, World!")
+```
+
+
+# Welcome to My Portfolio!
+
+## About Me
+Hello! I am a developer passionate about building creative solutions.
+
+## Education
+| Degree       | University      | Year        |
+|--------------|-----------------|-------------|
+| B.Sc. in CS  | XYZ University  | 2024        |
+
+## Interests
+- Web Development
+- Cryptography
+- Machine Learning
+
+## Contact
+- **Email**: your-email@example.com
+- **GitHub**: [github.com/your-username](https://github.com/your-username)
+
+
+
+
+
